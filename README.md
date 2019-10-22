@@ -10,6 +10,7 @@
 
 ## Technologies
 - [Amazon Web Services (AWS)](tech/aws.md)
+- [Ansible](tech/ansible.md)
 - [BASH](tech/bash.md)
 - [Git](tech/git.md)
 - [Java](tech/java.md)
