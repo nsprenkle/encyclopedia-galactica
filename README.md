@@ -1,22 +1,12 @@
 # Encyclopedia Galactica
 
-## Concepts
-- [Disaster Recovery](concepts/disaster-recovery.md)
-- [HyperText Transport Protocol (HTTP)](concepts/http.md)
-- [Microservice Design](concepts/microservice-design.md)
-- [REpresentative State Transfer (REST)](concepts/rest.md)
-- [SOLID Design Prenciples](concepts/solid.md)
-- [Test-Driven Development](concepts/tdd.md)
+A collection of technological knowledge
 
-## Technologies
-- [Amazon Web Services (AWS)](tech/aws.md)
-- [Ansible](tech/ansible.md)
-- [BASH](tech/bash.md)
-- [Git](tech/git.md)
-- [Java](tech/java.md)
-- [JavaScript](tech/javascript.md)
-- [NodeJS](tech/nodejs.md)
-- [React / Redux](tech/react-redux.md)
-- [Swagger](tech/swagger.md)
-- [XPath](tech/xpath.md)
-- [XSLT](tech/xslt.md)
+Built using [docsify](https://github.com/docsifyjs/docsify/)
+
+# Quickstart
+
+```bash
+npm install
+docsify serve docs
+```
