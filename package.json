@@ -1,0 +1,22 @@
+{
+  "name": "encyclopedia-galactica",
+  "version": "0.0.0",
+  "description": "## Concepts - [Disaster Recovery](concepts/disaster-recovery.md) - [HyperText Transport Protocol (HTTP)](concepts/http.md) - [Microservice Design](concepts/microservice-design.md) - [REpresentative State Transfer (REST)](concepts/rest.md) - [SOLID Design Prenciples](concepts/solid.md) - [Test-Driven Development](concepts/tdd.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsprenkle/encyclopedia-galactica.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nsprenkle/encyclopedia-galactica/issues"
+  },
+  "homepage": "https://github.com/nsprenkle/encyclopedia-galactica#readme",
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  }
+}
