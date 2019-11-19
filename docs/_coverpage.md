@@ -1,8 +1,10 @@
+![logo](assets/favicon.png)
+
 # Encyclopedia Galactica
 
 > A collection of technological knowledge
 
-[Get Started](#Glossary)
+[Get Started](#glossary)
 
 <!-- background color -->
 
